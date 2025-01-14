@@ -14,7 +14,6 @@ This is a simple Razorpay clone built using HTML, Tailwind CSS, and a bit of Jav
 
 - **HTML**: Structure and content of the website.
 - **Tailwind CSS**: For styling and creating a responsive design.
-- **JavaScript**: For simple interactive features (form validation, button interactions).
   
 ## Installation
 
